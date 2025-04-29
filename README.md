@@ -10,6 +10,8 @@ This project tracks the location of a variety of aircrafts among two airports. T
 
 More information can be found in my [summary report](https://github.com/osterholt/PCAAB/blob/main/Final%20Report%20-%20Predictive%20Classification%20of%20Aircraft%20Approach%20Behaviors.pdf) and [final presentation](https://github.com/osterholt/PCAAB/blob/main/Final%20Presentation.pptx).
 
+I have created two demos to showcase the effective classification. They both showcase the same flight into Atlanta with an approach that switches sides. The [first](https://youtu.be/4EWAxd-LDcs) showcases the simple Random Forest model and [second](https://youtu.be/hoQqRULs9rQ) is a Multilayer Perceptron Classifier Neural Network.
+
 Possible Behaviors:
 
 1. no behavior (standing still)
