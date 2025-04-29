@@ -6,9 +6,9 @@ Please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/c
 
 ## About
 
-This project tracks the location of a variety of aircrafts among two airports. The locations are provided by the FAA using their SWIM Terminal Data Distribution System (STDDS) in the Swift Portal. To get more data at different airports please apply at their [site](https://portal.swim.faa.gov/). The environment variables provided can be inputted at [reference.conf](jumpstart-latest/src/main/resources/reference.conf.)
+This project tracks the location of a variety of aircrafts among two airports. The locations are provided by the FAA using their SWIM Terminal Data Distribution System (STDDS) in the Swift Portal. To get more data at different airports please apply at their [site](https://portal.swim.faa.gov/). The environment variables provided can be inputted at [reference.conf](https://github.com/osterholt/PCAAB/blob/main/jumpstart-latest/src/main/resources/reference.conf)
 
-More information can be found in my summary report and final presentation.
+More information can be found in my [summary report](https://github.com/osterholt/PCAAB/blob/main/Final%20Report%20-%20Predictive%20Classification%20of%20Aircraft%20Approach%20Behaviors.pdf) and [final presentation](https://github.com/osterholt/PCAAB/blob/main/Final%20Presentation.pptx).
 
 Possible Behaviors:
 
