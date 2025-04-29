@@ -1,0 +1,11 @@
+
+Lists of 9 third-party dependencies.
+     (SOLACE CORPORATION LICENSE AGREEMENT) Utilities for Solace Messaging API for Java (com.solacesystems:sol-common:10.25.2 - https://docs.solace.com/Solace-PubSub-Messaging-APIs/Java-API/java-api-home.htm)
+     (SOLACE CORPORATION LICENSE AGREEMENT) Solace Messaging API For Java(JCSMP) (com.solacesystems:sol-jcsmp:10.25.2 - https://docs.solace.com/API/Messaging-APIs/JCSMP-API/jcsmp-api-home.htm)
+     (SOLACE CORPORATION LICENSE AGREEMENT) Solace Messaging API for JMS (com.solacesystems:sol-jms:10.25.2 - https://docs.solace.com/Solace-JMS-API/jms-get-started-open.htm)
+     (Apache-2.0) config (com.typesafe:config:1.4.3 - https://github.com/lightbend/config)
+     (Apache License 2.0) Metrics Core (io.dropwizard.metrics:metrics-core:4.2.30 - https://metrics.dropwizard.io/metrics-core)
+     (Eclipse Public License 1.0) JUnit (junit:junit:4.12 - http://junit.org)
+     (Apache-2.0) SLF4J 1 Binding for Log4j API (org.apache.logging.log4j:log4j-slf4j-impl:2.24.3 - https://logging.apache.org/log4j/2.x/log4j/log4j-slf4j-impl/)
+     (Apache-2.0) QpidJMS Client (org.apache.qpid:qpid-jms-client:2.6.1 - https://qpid.apache.org/qpid-jms-client)
+     (Public Domain) JSON in Java (org.json:json:20250107 - https://github.com/douglascrockford/JSON-java)

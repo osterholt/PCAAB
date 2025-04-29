@@ -1,0 +1,5267 @@
+{
+    "Entry4": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 14,
+                "plotCount": 1,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 15,
+                "targetExtent": {
+                    "startRange": 1632,
+                    "endAzimuth": 205.5267333984375,
+                    "endRange": 1639,
+                    "startAzimuth": 204.9993896484375
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 16,
+                "stid": 743114,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 250.2630615234375},
+                "full": false,
+                "status": {"nic": 9}
+            },
+            {
+                "seqNum": 17,
+                "stid": 744871,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93208,
+                    "x": 412,
+                    "y": -1503,
+                    "longitude": -72.68352
+                },
+                "track": 3672,
+                "full": false,
+                "status": {"tse": 1}
+            },
+            {
+                "seqNum": 18,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.95069,
+                    "x": 1350,
+                    "longitude": -72.67221
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 19,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "altitude": 2593.75,
+                    "latitude": 41.96781,
+                    "x": 18983,
+                    "y": 2490,
+                    "longitude": -72.45951
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "seqNum": 20,
+                "plotCount": 0,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 10
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "ms": 0,
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 10
+                    },
+                    "mon": 0
+                }
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 21,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "altitude": 4031.25,
+                    "latitude": 41.84093,
+                    "x": 12131,
+                    "y": -11619,
+                    "longitude": -72.54246
+                },
+                "track": 3680,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry5": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 22,
+                "plotCount": 1,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {"ay": 0},
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "NACp": 10,
+                    "src": "ground",
+                    "av": "unknown",
+                    "ms": 1,
+                    "sil": 3,
+                    "nic": 10,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 23,
+                "targetExtent": {
+                    "startRange": 1415,
+                    "endAzimuth": 142.2125244140625,
+                    "endRange": 1420,
+                    "startAzimuth": 141.9488525390625
+                },
+                "plotCount": 2,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93553,
+                    "x": 872,
+                    "y": -1120,
+                    "longitude": -72.67798
+                },
+                "track": 3718,
+                "movement": {
+                    "vx": 2,
+                    "vy": 7,
+                    "heading": 139.0869140625,
+                    "ax": 0.5,
+                    "ay": 1.5,
+                    "speed": 14
+                },
+                "full": false
+            },
+            {
+                "seqNum": 24,
+                "targetExtent": {
+                    "startRange": 1323,
+                    "endAzimuth": 169.0301513671875,
+                    "endRange": 1336,
+                    "startAzimuth": 168.4149169921875
+                },
+                "plotCount": 2,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93371,
+                    "x": 265,
+                    "y": -1322,
+                    "longitude": -72.68529
+                },
+                "track": 3356,
+                "movement": {
+                    "heading": 358.1378173828125,
+                    "speed": 1
+                },
+                "full": false,
+                "status": {
+                    "uncorrBaroAlt": -2,
+                    "src": "ground",
+                    "ms": 1,
+                    "gbs": 1,
+                    "mon": 0,
+                    "vs": "geometric"
+                }
+            },
+            {
+                "seqNum": 25,
+                "targetExtent": {
+                    "startRange": 735,
+                    "endAzimuth": 141.6741943359375,
+                    "endRange": 745,
+                    "startAzimuth": 141.0589599609375
+                },
+                "plotCount": 2,
+                "stid": 744870,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94049,
+                    "x": 467,
+                    "y": -570,
+                    "longitude": -72.68286
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 42.4237060546875,
+                    "ax": 0,
+                    "ay": 0
+                },
+                "full": false,
+                "status": {"quality": 4}
+            },
+            {
+                "seqNum": 26,
+                "targetExtent": {
+                    "startRange": 729,
+                    "endAzimuth": 139.251708984375,
+                    "endRange": 741,
+                    "startAzimuth": 136.263427734375
+                },
+                "plotCount": 3,
+                "stid": 744692,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94089,
+                    "x": 508,
+                    "y": -525,
+                    "longitude": -72.68237
+                },
+                "track": 2741,
+                "movement": {
+                    "heading": 41.0174560546875,
+                    "ay": 0
+                },
+                "full": false,
+                "status": {
+                    "nic": 8,
+                    "quality": 3
+                }
+            },
+            {
+                "seqNum": 27,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94556,
+                    "x": 9,
+                    "y": -6,
+                    "longitude": -72.68839
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 1,
+                    "vy": -1,
+                    "ax": 0.25,
+                    "ay": 0,
+                    "speed": 2
+                },
+                "full": false
+            },
+            {
+                "seqNum": 28,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "y": -853,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 29,
+                "targetExtent": {
+                    "startRange": 1569,
+                    "endAzimuth": 161.9659423828125,
+                    "endRange": 1617,
+                    "startAzimuth": 160.9112548828125
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93205,
+                    "y": -1507,
+                    "longitude": -72.68233
+                },
+                "track": 3837,
+                "movement": {"heading": 333.5284423828125},
+                "full": false
+            },
+            {
+                "seqNum": 30,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 31,
+                "targetExtent": {
+                    "endAzimuth": 125.321044921875,
+                    "startAzimuth": 124.793701171875
+                },
+                "plotCount": 3,
+                "stid": 744555,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94184,
+                    "x": 602,
+                    "y": -420,
+                    "longitude": -72.68123
+                },
+                "track": 3420,
+                "movement": {
+                    "vy": 5,
+                    "heading": 43.319091796875
+                },
+                "full": false
+            },
+            {
+                "seqNum": 32,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "movement": {"heading": 85.440673828125},
+                "full": false
+            },
+            {
+                "seqNum": 33,
+                "targetExtent": {
+                    "startRange": 2036,
+                    "endAzimuth": 142.833251953125,
+                    "endRange": 2063,
+                    "startAzimuth": 141.514892578125
+                },
+                "plotCount": 2,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 34,
+                "targetExtent": {
+                    "startRange": 1159,
+                    "endAzimuth": 174.6990966796875,
+                    "endRange": 1166,
+                    "startAzimuth": 174.4354248046875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 35,
+                "plotCount": 2,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 36,
+                "targetExtent": {
+                    "startRange": 790,
+                    "endAzimuth": 108.248291015625,
+                    "endRange": 805,
+                    "startAzimuth": 107.984619140625
+                },
+                "plotCount": 1,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 37,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "movement": {"heading": 359.747314453125},
+                "full": false
+            },
+            {
+                "seqNum": 38,
+                "targetExtent": {
+                    "startRange": 1631,
+                    "endAzimuth": 205.576171875,
+                    "endRange": 1638,
+                    "startAzimuth": 205.048828125
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 39,
+                "targetExtent": {
+                    "startRange": 761,
+                    "endAzimuth": 226.241455078125,
+                    "endRange": 779,
+                    "startAzimuth": 222.813720703125
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 249.8345947265625},
+                "full": false
+            },
+            {
+                "seqNum": 40,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "latitude": 41.95069,
+                    "y": 564,
+                    "longitude": -72.67221
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 41,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "altitude": 2600,
+                    "latitude": 41.96878,
+                    "x": 19020,
+                    "y": 2599,
+                    "longitude": -72.45906
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 42,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:35.000Z",
+                "position": {
+                    "altitude": 4037.5,
+                    "latitude": 41.84211,
+                    "x": 12162,
+                    "y": -11488,
+                    "longitude": -72.54209
+                },
+                "track": 3680,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry19": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 196,
+                "targetExtent": {
+                    "startRange": 1550,
+                    "endAzimuth": 162.3834228515625,
+                    "endRange": 1600,
+                    "startAzimuth": 160.9771728515625
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93218,
+                    "x": 500,
+                    "y": -1493,
+                    "longitude": -72.68246
+                },
+                "track": 3837,
+                "movement": {"heading": 328.29345703125},
+                "full": false
+            },
+            {
+                "seqNum": 197,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 198,
+                "targetExtent": {
+                    "endAzimuth": 121.6131591796875,
+                    "startAzimuth": 120.7342529296875
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94221,
+                    "x": 639,
+                    "y": -379,
+                    "longitude": -72.68079
+                },
+                "track": 3420,
+                "movement": {"heading": 42.0721435546875},
+                "full": false
+            },
+            {
+                "seqNum": 199,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 200,
+                "targetExtent": {
+                    "endAzimuth": 142.833251953125,
+                    "startAzimuth": 141.514892578125
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 201,
+                "targetExtent": {
+                    "startRange": 1157,
+                    "endAzimuth": 174.8309326171875,
+                    "endRange": 1164,
+                    "startAzimuth": 174.3914794921875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 202,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 203,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"heading": 30.113525390625},
+                "full": false
+            },
+            {
+                "seqNum": 204,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 205,
+                "targetExtent": {
+                    "endAzimuth": 205.543212890625,
+                    "startAzimuth": 204.927978515625
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93227,
+                    "y": -1483,
+                    "longitude": -72.69688
+                },
+                "track": 2530,
+                "movement": {
+                    "vy": -1,
+                    "ay": 0,
+                    "speed": 1
+                },
+                "full": false,
+                "status": {
+                    "NACp": 9,
+                    "nic": 9
+                }
+            },
+            {
+                "seqNum": 206,
+                "targetExtent": {
+                    "startRange": 760,
+                    "endAzimuth": 226.1865234375,
+                    "endRange": 778,
+                    "startAzimuth": 222.7587890625
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 247.291259765625},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry2": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 251,
+                "stid": 744871,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93206,
+                    "x": 406,
+                    "y": -1505,
+                    "longitude": -72.6836
+                },
+                "track": 3672,
+                "full": false
+            },
+            {
+                "seqNum": 252,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.95069,
+                    "longitude": -72.6722
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 253,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "altitude": 2587.5,
+                    "latitude": 41.96683,
+                    "x": 18945,
+                    "y": 2382,
+                    "longitude": -72.45997
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "seqNum": 254,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "y": -1,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {"ay": -0.25},
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 255,
+                "plotCount": 0,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "altitude": 4025,
+                    "latitude": 41.83976,
+                    "x": 12101,
+                    "y": -11750,
+                    "longitude": -72.54283
+                },
+                "track": 3680,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "uncorrBaroAlt": "unavailable",
+                    "NACp": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "a9s": 0,
+                    "mon": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry18": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 190,
+                "targetExtent": {
+                    "startRange": 1415,
+                    "endAzimuth": 142.2125244140625,
+                    "endRange": 1420,
+                    "startAzimuth": 141.9488525390625
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93552,
+                    "x": 871,
+                    "y": -1121,
+                    "longitude": -72.67799
+                },
+                "track": 3718,
+                "movement": {
+                    "vx": 1,
+                    "vy": 3,
+                    "ax": 0.25,
+                    "ay": 0.75,
+                    "speed": 7
+                },
+                "full": false
+            },
+            {
+                "seqNum": 191,
+                "targetExtent": {
+                    "startRange": 1325,
+                    "endAzimuth": 169.0301513671875,
+                    "endRange": 1335,
+                    "startAzimuth": 168.4149169921875
+                },
+                "plotCount": 1,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93346,
+                    "y": -1351,
+                    "longitude": -72.68521
+                },
+                "track": 3356,
+                "movement": {"heading": 41.5777587890625},
+                "full": false,
+                "status": {
+                    "src": "none",
+                    "ms": 0,
+                    "gbs": 0,
+                    "mon": 1,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 192,
+                "targetExtent": {
+                    "startRange": 725,
+                    "endAzimuth": 135.6591796875,
+                    "endRange": 735,
+                    "startAzimuth": 134.7802734375
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94106,
+                    "x": 522,
+                    "y": -506,
+                    "longitude": -72.68219
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 40.880126953125,
+                    "speed": 21
+                },
+                "full": false,
+                "status": {"quality": 12}
+            },
+            {
+                "seqNum": 193,
+                "targetExtent": {
+                    "startRange": 720,
+                    "endAzimuth": 133.1927490234375,
+                    "endRange": 745,
+                    "startAzimuth": 129.9407958984375
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94147,
+                    "x": 567,
+                    "y": -461,
+                    "longitude": -72.68165
+                },
+                "track": 2741,
+                "movement": {"heading": 42.198486328125},
+                "full": false,
+                "status": {"quality": 11}
+            },
+            {
+                "seqNum": 194,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.9456,
+                    "y": -2,
+                    "longitude": -72.68842
+                },
+                "track": 917,
+                "movement": {"speed": 2},
+                "full": false
+            },
+            {
+                "seqNum": 195,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.93795,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "movement": {"ax": 0.25},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry3": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 0,
+                "targetExtent": {
+                    "startRange": 1417,
+                    "endAzimuth": 143.1298828125,
+                    "endRange": 1437,
+                    "startAzimuth": 142.0751953125
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93533,
+                    "y": -1142,
+                    "longitude": -72.67805
+                },
+                "track": 3718,
+                "movement": {
+                    "heading": 138.5321044921875,
+                    "speed": 1
+                },
+                "full": false
+            },
+            {
+                "seqNum": 1,
+                "targetExtent": {
+                    "startRange": 1325,
+                    "endAzimuth": 169.0740966796875,
+                    "endRange": 1335,
+                    "startAzimuth": 168.3709716796875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93377,
+                    "x": 264,
+                    "y": -1316,
+                    "longitude": -72.6853
+                },
+                "track": 3356,
+                "full": false,
+                "status": {
+                    "vertRate": "unavailable",
+                    "NACp": 8,
+                    "ud": "up"
+                }
+            },
+            {
+                "seqNum": 2,
+                "targetExtent": {
+                    "startRange": 738,
+                    "endAzimuth": 143.1463623046875,
+                    "endRange": 746,
+                    "startAzimuth": 142.6190185546875
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94042,
+                    "x": 460,
+                    "y": -577,
+                    "longitude": -72.68294
+                },
+                "track": 3826,
+                "movement": {
+                    "vx": 8,
+                    "vy": 8,
+                    "heading": 42.4127197265625,
+                    "speed": 22
+                },
+                "full": false
+            },
+            {
+                "seqNum": 3,
+                "targetExtent": {
+                    "startRange": 731,
+                    "endAzimuth": 140.9820556640625,
+                    "endRange": 744,
+                    "startAzimuth": 137.8179931640625
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94081,
+                    "x": 501,
+                    "y": -534,
+                    "longitude": -72.68245
+                },
+                "track": 2741,
+                "movement": {
+                    "vy": 8,
+                    "heading": 41.385498046875,
+                    "ay": 0.25
+                },
+                "full": false,
+                "status": {
+                    "nic": 9,
+                    "quality": 4
+                }
+            },
+            {
+                "seqNum": 4,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94558,
+                    "y": -4,
+                    "longitude": -72.68841
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 0,
+                    "speed": 0
+                },
+                "full": false
+            },
+            {
+                "seqNum": 5,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "y": -852,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 6,
+                "targetExtent": {
+                    "startRange": 1566,
+                    "endAzimuth": 161.8890380859375,
+                    "endRange": 1619,
+                    "startAzimuth": 160.8343505859375
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93205,
+                    "x": 511,
+                    "y": -1506,
+                    "longitude": -72.68233
+                },
+                "track": 3837,
+                "movement": {"heading": 334.70947265625},
+                "full": false
+            },
+            {
+                "seqNum": 7,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "y": -853,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 8,
+                "targetExtent": {
+                    "startRange": 726,
+                    "endAzimuth": 126.3427734375,
+                    "endRange": 739,
+                    "startAzimuth": 125.5517578125
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94179,
+                    "x": 598,
+                    "y": -425,
+                    "longitude": -72.68128
+                },
+                "track": 3420,
+                "movement": {"heading": 43.341064453125},
+                "full": false
+            },
+            {
+                "seqNum": 9,
+                "plotCount": 1,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "movement": {"heading": 85.924072265625},
+                "full": false
+            },
+            {
+                "seqNum": 10,
+                "targetExtent": {
+                    "startRange": 2039,
+                    "endAzimuth": 142.822265625,
+                    "endRange": 2066,
+                    "startAzimuth": 141.943359375
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67332
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 11,
+                "targetExtent": {
+                    "startRange": 1155,
+                    "endAzimuth": 174.8309326171875,
+                    "endRange": 1165,
+                    "startAzimuth": 174.3914794921875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 12,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 13,
+                "targetExtent": {
+                    "startRange": 791,
+                    "endAzimuth": 108.270263671875,
+                    "endRange": 809,
+                    "startAzimuth": 108.006591796875
+                },
+                "plotCount": 2,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:34.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"heading": 27.4713134765625},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry17": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "flightInfo": {
+                    "runway": "unassigned",
+                    "tgtType": "unknown"
+                },
+                "seqNum": 169,
+                "targetExtent": {
+                    "startRange": 1457,
+                    "endAzimuth": 68.7359619140625,
+                    "estimate": 0,
+                    "endRange": 1477,
+                    "startAzimuth": 66.8023681640625
+                },
+                "plotCount": 3,
+                "flightId": {"aircraftId": "UNKN"},
+                "stid": 744875,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "altitude": 168.75,
+                    "latitude": 41.95071,
+                    "x": 1355,
+                    "y": 565,
+                    "longitude": -72.67215
+                },
+                "track": 3656,
+                "movement": {
+                    "vx": -1,
+                    "vy": 3,
+                    "heading": 344.2950439453125,
+                    "ax": 0,
+                    "ay": 0,
+                    "speed": 6
+                },
+                "full": true,
+                "status": {
+                    "vertRate": "unavailable",
+                    "rt": 0,
+                    "df": 0,
+                    "di": 0,
+                    "tse": 0,
+                    "ls": 0,
+                    "nic": 8,
+                    "lv": 0,
+                    "ua": 0,
+                    "mon": 1,
+                    "ud": "up",
+                    "uncorrBaroAlt": "unavailable",
+                    "sim": 0,
+                    "si": 0,
+                    "sil": 0,
+                    "s1": 0,
+                    "ss": 1,
+                    "aa": 0,
+                    "op": 0,
+                    "st": 0,
+                    "mrh": "barometric",
+                    "su": 0,
+                    "NACp": 8,
+                    "src": "none",
+                    "af": "unfiltered",
+                    "gm": 0,
+                    "ms": 0,
+                    "twyID": 0,
+                    "spi": 0,
+                    "ap": 0,
+                    "tc": 0,
+                    "quality": 12,
+                    "aq": 0,
+                    "as": 0,
+                    "tf": 0,
+                    "at": 0,
+                    "nc": 1,
+                    "av": "unknown",
+                    "x": 0,
+                    "gbs": 0,
+                    "a9s": 0,
+                    "m3c": 0,
+                    "da": 0,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 170,
+                "targetExtent": {
+                    "startRange": 1430,
+                    "endAzimuth": 142.9925537109375,
+                    "startAzimuth": 142.7288818359375
+                },
+                "plotCount": 1,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93534,
+                    "x": 866,
+                    "y": -1141,
+                    "longitude": -72.67805
+                },
+                "track": 3718,
+                "movement": {
+                    "vy": -1,
+                    "speed": 2
+                },
+                "full": false,
+                "status": {
+                    "ss": 1,
+                    "aa": 0,
+                    "NACp": 9,
+                    "av": "unknown",
+                    "sil": 0,
+                    "nic": 9,
+                    "mon": 1,
+                    "quality": 2
+                }
+            },
+            {
+                "seqNum": 171,
+                "plotCount": 1,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94563,
+                    "y": 1,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {
+                    "ay": 0.25,
+                    "speed": 1
+                },
+                "full": false
+            },
+            {
+                "seqNum": 172,
+                "targetExtent": {
+                    "startRange": 1323,
+                    "endAzimuth": 168.9862060546875,
+                    "endRange": 1336,
+                    "startAzimuth": 168.4588623046875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93345,
+                    "x": 272,
+                    "y": -1352,
+                    "longitude": -72.68521
+                },
+                "track": 3356,
+                "movement": {"heading": 40.3363037109375},
+                "full": false,
+                "status": {"uncorrBaroAlt": "unavailable"}
+            },
+            {
+                "seqNum": 173,
+                "targetExtent": {
+                    "endAzimuth": 136.505126953125,
+                    "endRange": 733,
+                    "startAzimuth": 135.714111328125
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94098,
+                    "x": 515,
+                    "y": -515,
+                    "longitude": -72.68228
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 40.89111328125,
+                    "speed": 20
+                },
+                "full": false,
+                "status": {"quality": 11}
+            },
+            {
+                "seqNum": 174,
+                "targetExtent": {
+                    "endAzimuth": 133.8958740234375,
+                    "startAzimuth": 130.5560302734375
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94139,
+                    "x": 560,
+                    "y": -469,
+                    "longitude": -72.68174
+                },
+                "track": 2741,
+                "movement": {"heading": 42.4346923828125},
+                "full": false,
+                "status": {"quality": 10}
+            },
+            {
+                "seqNum": 175,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94559,
+                    "y": -3,
+                    "longitude": -72.68843
+                },
+                "track": 917,
+                "movement": {
+                    "vy": 1,
+                    "ay": 0.25,
+                    "speed": 1
+                },
+                "full": false
+            },
+            {
+                "seqNum": 176,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 177,
+                "targetExtent": {
+                    "startRange": 1554,
+                    "endAzimuth": 162.213134765625,
+                    "endRange": 1606,
+                    "startAzimuth": 160.894775390625
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93216,
+                    "x": 503,
+                    "y": -1495,
+                    "longitude": -72.68243
+                },
+                "track": 3837,
+                "movement": {"heading": 329.9029541015625},
+                "full": false
+            },
+            {
+                "seqNum": 178,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 179,
+                "targetExtent": {
+                    "startRange": 733,
+                    "endAzimuth": 122.069091796875,
+                    "endRange": 746,
+                    "startAzimuth": 121.190185546875
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94216,
+                    "x": 634,
+                    "y": -384,
+                    "longitude": -72.68084
+                },
+                "track": 3420,
+                "movement": {"heading": 41.8853759765625},
+                "full": false
+            },
+            {
+                "seqNum": 180,
+                "targetExtent": {
+                    "startRange": 1128,
+                    "endAzimuth": 99.6844482421875,
+                    "endRange": 1151,
+                    "startAzimuth": 98.8934326171875
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 181,
+                "targetExtent": {
+                    "endAzimuth": 142.877197265625,
+                    "startAzimuth": 141.470947265625
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 182,
+                "targetExtent": {
+                    "startRange": 1159,
+                    "endAzimuth": 174.6990966796875,
+                    "endRange": 1166,
+                    "startAzimuth": 174.4354248046875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 183,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 184,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"heading": 29.2401123046875},
+                "full": false
+            },
+            {
+                "seqNum": 185,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 186,
+                "targetExtent": {
+                    "endAzimuth": 205.576171875,
+                    "startAzimuth": 204.9609375
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.93229,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "movement": {"ay": -0.25},
+                "full": false
+            },
+            {
+                "seqNum": 187,
+                "targetExtent": {
+                    "startRange": 761,
+                    "endAzimuth": 226.241455078125,
+                    "endRange": 779,
+                    "startAzimuth": 222.813720703125
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 188,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "altitude": 2662.5,
+                    "latitude": 41.97561,
+                    "x": 19281,
+                    "y": 3357,
+                    "longitude": -72.45589
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 189,
+                "plotCount": 0,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:42.000Z",
+                "position": {
+                    "latitude": 41.85044,
+                    "x": 12339,
+                    "y": -10563,
+                    "longitude": -72.53994
+                },
+                "track": 3680,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "uncorrBaroAlt": "unavailable",
+                    "NACp": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "a9s": 0,
+                    "mon": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry8": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 64,
+                "plotCount": 1,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "altitude": 4018.75,
+                    "latitude": 41.84436,
+                    "x": 12210,
+                    "y": -11238,
+                    "longitude": -72.54151
+                },
+                "track": 3680,
+                "movement": {
+                    "vx": 30,
+                    "vy": 130,
+                    "heading": 12.908935546875,
+                    "ay": -0.25,
+                    "speed": 258
+                },
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "vertRate": 6,
+                    "NACp": 6,
+                    "src": "modec",
+                    "av": "unknown",
+                    "sil": 3,
+                    "nic": 6,
+                    "a9s": 1,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 65,
+                "targetExtent": {
+                    "startRange": 1417,
+                    "endAzimuth": 143.1298828125,
+                    "endRange": 1437,
+                    "startAzimuth": 142.0751953125
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93544,
+                    "longitude": -72.67801
+                },
+                "track": 3718,
+                "movement": {
+                    "vy": 1,
+                    "ay": 0,
+                    "speed": 2
+                },
+                "full": false
+            },
+            {
+                "seqNum": 66,
+                "targetExtent": {
+                    "startRange": 1325,
+                    "endAzimuth": 169.0301513671875,
+                    "endRange": 1335,
+                    "startAzimuth": 168.4149169921875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93355,
+                    "x": 269,
+                    "y": -1340,
+                    "longitude": -72.68525
+                },
+                "track": 3356,
+                "movement": {
+                    "vy": -1,
+                    "heading": 3.0816650390625
+                },
+                "full": false,
+                "status": {
+                    "src": "ground",
+                    "ms": 1,
+                    "gbs": 1,
+                    "mon": 0,
+                    "vs": "geometric"
+                }
+            },
+            {
+                "seqNum": 67,
+                "targetExtent": {
+                    "startRange": 734,
+                    "endAzimuth": 140.3338623046875,
+                    "endRange": 741,
+                    "startAzimuth": 139.4549560546875
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94062,
+                    "x": 481,
+                    "y": -555,
+                    "longitude": -72.68269
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 43.1103515625,
+                    "ax": 0
+                },
+                "full": false,
+                "status": {"quality": 6}
+            },
+            {
+                "seqNum": 68,
+                "targetExtent": {
+                    "startRange": 725,
+                    "endAzimuth": 137.6202392578125,
+                    "endRange": 740,
+                    "startAzimuth": 134.3682861328125
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94104,
+                    "x": 523,
+                    "y": -509,
+                    "longitude": -72.68218
+                },
+                "track": 2741,
+                "movement": {
+                    "heading": 41.5777587890625,
+                    "speed": 21
+                },
+                "full": false,
+                "status": {"quality": 5}
+            },
+            {
+                "seqNum": 69,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94558,
+                    "x": 4,
+                    "y": -4,
+                    "longitude": -72.68844
+                },
+                "track": 917,
+                "movement": {
+                    "vx": -1,
+                    "vy": 1,
+                    "ax": -0.25,
+                    "ay": 0,
+                    "speed": 3
+                },
+                "full": false
+            },
+            {
+                "seqNum": 70,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 71,
+                "targetExtent": {
+                    "startRange": 1564,
+                    "endRange": 1616
+                },
+                "plotCount": 1,
+                "stid": 744857,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93208,
+                    "x": 509,
+                    "y": -1503,
+                    "longitude": -72.68236
+                },
+                "track": 3837,
+                "movement": {"heading": 331.270751953125},
+                "full": false
+            },
+            {
+                "seqNum": 72,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 73,
+                "targetExtent": {
+                    "startRange": 730,
+                    "endAzimuth": 124.365234375,
+                    "endRange": 740,
+                    "startAzimuth": 123.662109375
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94194,
+                    "x": 612,
+                    "y": -408,
+                    "longitude": -72.68111
+                },
+                "track": 3420,
+                "movement": {"heading": 42.1875},
+                "full": false
+            },
+            {
+                "seqNum": 74,
+                "targetExtent": {
+                    "startRange": 1129,
+                    "endAzimuth": 99.73388671875,
+                    "endRange": 1152,
+                    "startAzimuth": 98.94287109375
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 75,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "movement": {"heading": 353.38623046875},
+                "full": false
+            },
+            {
+                "seqNum": 76,
+                "plotCount": 2,
+                "stid": 743504,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry9": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 77,
+                "targetExtent": {
+                    "startRange": 2114,
+                    "endAzimuth": 149.556884765625,
+                    "endRange": 2126,
+                    "startAzimuth": 148.502197265625
+                },
+                "stid": 744073,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 78,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.9434,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 79,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 80,
+                "targetExtent": {
+                    "startRange": 1631,
+                    "endAzimuth": 205.576171875,
+                    "endRange": 1638,
+                    "startAzimuth": 205.048828125
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "y": -1479,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 81,
+                "targetExtent": {
+                    "startRange": 761,
+                    "endAzimuth": 226.241455078125,
+                    "endRange": 779,
+                    "startAzimuth": 222.813720703125
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 248.9996337890625},
+                "full": false
+            },
+            {
+                "seqNum": 82,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.9507,
+                    "longitude": -72.67223
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 83,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "altitude": 2618.75,
+                    "latitude": 41.97073,
+                    "x": 19095,
+                    "y": 2815,
+                    "longitude": -72.45815
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "seqNum": 84,
+                "plotCount": 0,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:37.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 10
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "ms": 0,
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 10
+                    },
+                    "mon": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry6": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 43,
+                "plotCount": 2,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "full": false
+            },
+            {
+                "seqNum": 44,
+                "targetExtent": {
+                    "startRange": 1430,
+                    "endAzimuth": 142.9925537109375,
+                    "endRange": 1435,
+                    "startAzimuth": 142.7288818359375
+                },
+                "plotCount": 1,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93544,
+                    "x": 869,
+                    "y": -1131,
+                    "longitude": -72.67801
+                },
+                "track": 3718,
+                "movement": {
+                    "vx": 0,
+                    "vy": 2,
+                    "ax": 0,
+                    "ay": 0.25,
+                    "speed": 3
+                },
+                "full": false
+            },
+            {
+                "seqNum": 45,
+                "targetExtent": {
+                    "endAzimuth": 169.0740966796875,
+                    "startAzimuth": 168.4588623046875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93372,
+                    "y": -1321,
+                    "longitude": -72.6853
+                },
+                "track": 3356,
+                "movement": {"heading": 359.7857666015625},
+                "full": false,
+                "status": {
+                    "uncorrBaroAlt": "unavailable",
+                    "src": "none",
+                    "ms": 0,
+                    "gbs": 0,
+                    "mon": 1,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 46,
+                "targetExtent": {
+                    "startRange": 733,
+                    "endAzimuth": 141.119384765625,
+                    "endRange": 743,
+                    "startAzimuth": 140.328369140625
+                },
+                "plotCount": 1,
+                "stid": 744870,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94055,
+                    "x": 474,
+                    "y": -563,
+                    "longitude": -72.68278
+                },
+                "track": 3826,
+                "movement": {
+                    "vx": 7,
+                    "heading": 42.4346923828125,
+                    "ax": -0.25,
+                    "ay": -0.25,
+                    "speed": 21
+                },
+                "full": false,
+                "status": {"quality": 5}
+            },
+            {
+                "seqNum": 47,
+                "targetExtent": {
+                    "endAzimuth": 138.5980224609375,
+                    "startAzimuth": 135.2581787109375
+                },
+                "plotCount": 2,
+                "stid": 744692,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94096,
+                    "x": 515,
+                    "y": -517,
+                    "longitude": -72.68228
+                },
+                "track": 2741,
+                "movement": {"heading": 41.28662109375},
+                "full": false,
+                "status": {"quality": 4}
+            },
+            {
+                "seqNum": 48,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94555,
+                    "y": -8,
+                    "longitude": -72.68839
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 0,
+                    "ax": 0,
+                    "ay": -0.25
+                },
+                "full": false
+            },
+            {
+                "seqNum": 49,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 50,
+                "targetExtent": {
+                    "startRange": 1565,
+                    "endRange": 1615
+                },
+                "plotCount": 2,
+                "stid": 744857,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93207,
+                    "x": 510,
+                    "y": -1505,
+                    "longitude": -72.68234
+                },
+                "track": 3837,
+                "movement": {"heading": 332.171630859375},
+                "full": false
+            },
+            {
+                "seqNum": 51,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 52,
+                "targetExtent": {
+                    "startRange": 731,
+                    "endAzimuth": 124.8651123046875,
+                    "startAzimuth": 124.0740966796875
+                },
+                "plotCount": 2,
+                "stid": 744555,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94189,
+                    "x": 607,
+                    "y": -414,
+                    "longitude": -72.68117
+                },
+                "track": 3420,
+                "movement": {
+                    "heading": 42.9949951171875,
+                    "speed": 13
+                },
+                "full": false
+            },
+            {
+                "seqNum": 53,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "movement": {"heading": 84.9627685546875},
+                "full": false
+            },
+            {
+                "seqNum": 54,
+                "plotCount": 1,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 55,
+                "targetExtent": {
+                    "startRange": 1157,
+                    "endAzimuth": 174.8309326171875,
+                    "endRange": 1164,
+                    "startAzimuth": 174.3914794921875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 56,
+                "targetExtent": {
+                    "startRange": 2115,
+                    "endAzimuth": 149.6173095703125,
+                    "endRange": 2125,
+                    "startAzimuth": 148.5626220703125
+                },
+                "plotCount": 1,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 57,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.9434,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 58,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 59,
+                "targetExtent": {
+                    "startRange": 1632,
+                    "endAzimuth": 205.5267333984375,
+                    "endRange": 1639,
+                    "startAzimuth": 204.9993896484375
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 60,
+                "targetExtent": {
+                    "startRange": 760,
+                    "endAzimuth": 226.1865234375,
+                    "endRange": 778,
+                    "startAzimuth": 222.7587890625
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 249.4171142578125},
+                "full": false,
+                "status": {"nic": 10}
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry7": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 61,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "latitude": 41.95069,
+                    "x": 1349,
+                    "longitude": -72.67222
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 62,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "altitude": 2612.5,
+                    "latitude": 41.96976,
+                    "x": 19057,
+                    "y": 2707,
+                    "longitude": -72.45861
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 63,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:36.000Z",
+                "position": {
+                    "altitude": 4043.75,
+                    "latitude": 41.84329,
+                    "x": 12193,
+                    "y": -11357,
+                    "longitude": -72.54171
+                },
+                "track": 3680,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry12": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 127,
+                "targetExtent": {
+                    "startRange": 1415,
+                    "endAzimuth": 142.943115234375,
+                    "endRange": 1435,
+                    "startAzimuth": 141.888427734375
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.9354,
+                    "x": 868,
+                    "y": -1135,
+                    "longitude": -72.67803
+                },
+                "track": 3718,
+                "movement": {"speed": 1},
+                "full": false,
+                "status": {"quality": 4}
+            },
+            {
+                "seqNum": 128,
+                "targetExtent": {
+                    "startRange": 1325,
+                    "endRange": 1335
+                },
+                "plotCount": 2,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93361,
+                    "y": -1334,
+                    "longitude": -72.68525
+                },
+                "track": 3356,
+                "movement": {
+                    "heading": 35.321044921875,
+                    "speed": 1
+                },
+                "full": false,
+                "status": {
+                    "vertRate": "unavailable",
+                    "src": "ground",
+                    "ms": 1,
+                    "gbs": 1,
+                    "mon": 0,
+                    "vs": "geometric"
+                }
+            },
+            {
+                "seqNum": 129,
+                "targetExtent": {
+                    "endAzimuth": 137.9937744140625,
+                    "endRange": 738,
+                    "startAzimuth": 137.2027587890625
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94084,
+                    "x": 501,
+                    "y": -531,
+                    "longitude": -72.68245
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 41.209716796875,
+                    "ax": 0,
+                    "speed": 21
+                },
+                "full": false,
+                "status": {"quality": 9}
+            },
+            {
+                "seqNum": 130,
+                "targetExtent": {
+                    "startRange": 722,
+                    "endAzimuth": 135.2691650390625,
+                    "endRange": 737,
+                    "startAzimuth": 131.8414306640625
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94125,
+                    "x": 546,
+                    "y": -485,
+                    "longitude": -72.68191
+                },
+                "track": 2741,
+                "movement": {"heading": 42.176513671875},
+                "full": false,
+                "status": {
+                    "NACp": 9,
+                    "quality": 8
+                }
+            },
+            {
+                "seqNum": 131,
+                "plotCount": 1,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94556,
+                    "x": 5,
+                    "y": -6,
+                    "longitude": -72.68843
+                },
+                "track": 917,
+                "movement": {
+                    "vx": -1,
+                    "vy": 0,
+                    "ax": 0,
+                    "speed": 2
+                },
+                "full": false
+            },
+            {
+                "seqNum": 132,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93795,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "movement": {"heading": 7.283935546875},
+                "full": false
+            },
+            {
+                "seqNum": 133,
+                "targetExtent": {
+                    "startRange": 1557,
+                    "endAzimuth": 162.147216796875,
+                    "startAzimuth": 161.004638671875
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93214,
+                    "x": 506,
+                    "y": -1497,
+                    "longitude": -72.68239
+                },
+                "track": 3837,
+                "movement": {"heading": 331.973876953125},
+                "full": false
+            },
+            {
+                "seqNum": 134,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 135,
+                "targetExtent": {
+                    "endAzimuth": 123.1402587890625,
+                    "startAzimuth": 122.1734619140625
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94208,
+                    "x": 625,
+                    "y": -393,
+                    "longitude": -72.68095
+                },
+                "track": 3420,
+                "movement": {
+                    "vx": 4,
+                    "heading": 41.8304443359375
+                },
+                "full": false
+            },
+            {
+                "seqNum": 136,
+                "targetExtent": {
+                    "startRange": 1129,
+                    "endAzimuth": 99.73388671875,
+                    "endRange": 1152,
+                    "startAzimuth": 98.94287109375
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry23": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 232,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "x": 2,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {"speed": 0},
+                "full": false
+            },
+            {
+                "seqNum": 233,
+                "targetExtent": {
+                    "startRange": 1417,
+                    "endAzimuth": 143.1298828125,
+                    "endRange": 1437,
+                    "startAzimuth": 142.0751953125
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.93541,
+                    "longitude": -72.67802
+                },
+                "track": 3718,
+                "movement": {"vy": 0},
+                "full": false
+            },
+            {
+                "seqNum": 234,
+                "targetExtent": {
+                    "endAzimuth": 134.176025390625,
+                    "startAzimuth": 133.385009765625
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94119,
+                    "x": 537,
+                    "y": -492,
+                    "longitude": -72.68202
+                },
+                "track": 3826,
+                "movement": {"heading": 42.374267578125},
+                "full": false
+            },
+            {
+                "seqNum": 235,
+                "targetExtent": {
+                    "startRange": 724,
+                    "endAzimuth": 131.3360595703125,
+                    "endRange": 737,
+                    "startAzimuth": 127.9962158203125
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94162,
+                    "x": 582,
+                    "y": -444,
+                    "longitude": -72.68147
+                },
+                "track": 2741,
+                "movement": {"heading": 41.8524169921875},
+                "full": false
+            },
+            {
+                "seqNum": 236,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94554,
+                    "x": 13,
+                    "y": -9,
+                    "longitude": -72.68834
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 2,
+                    "vy": -1
+                },
+                "full": false
+            },
+            {
+                "seqNum": 237,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "x": 480,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 238,
+                "targetExtent": {
+                    "startRange": 1550,
+                    "endAzimuth": 162.2735595703125,
+                    "endRange": 1593,
+                    "startAzimuth": 161.4825439453125
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.9322,
+                    "x": 494,
+                    "y": -1490,
+                    "longitude": -72.68253
+                },
+                "track": 3837,
+                "movement": {
+                    "vx": -2,
+                    "heading": 324.140625,
+                    "speed": 5
+                },
+                "full": false
+            },
+            {
+                "seqNum": 239,
+                "targetExtent": {
+                    "startRange": 739,
+                    "endAzimuth": 120.7562255859375,
+                    "endRange": 751,
+                    "startAzimuth": 119.8773193359375
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94229,
+                    "x": 648,
+                    "y": -369,
+                    "longitude": -72.68068
+                },
+                "track": 3420,
+                "movement": {
+                    "vx": 5,
+                    "heading": 42.6324462890625
+                },
+                "full": false
+            },
+            {
+                "seqNum": 240,
+                "targetExtent": {
+                    "startRange": 1129,
+                    "endAzimuth": 99.73388671875,
+                    "endRange": 1152,
+                    "startAzimuth": 98.94287109375
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 241,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "movement": {"heading": 354.9957275390625},
+                "full": false
+            },
+            {
+                "seqNum": 242,
+                "targetExtent": {
+                    "endAzimuth": 174.737548828125,
+                    "startAzimuth": 174.385986328125
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 243,
+                "targetExtent": {
+                    "startRange": 2114,
+                    "endAzimuth": 149.556884765625,
+                    "endRange": 2126,
+                    "startAzimuth": 148.502197265625
+                },
+                "stid": 744073,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 244,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"ax": -0.25},
+                "full": false
+            },
+            {
+                "seqNum": 245,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "movement": {"heading": 359.7528076171875},
+                "full": false
+            },
+            {
+                "seqNum": 246,
+                "targetExtent": {
+                    "endAzimuth": 205.631103515625,
+                    "startAzimuth": 204.927978515625
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "y": -1480,
+                    "longitude": -72.69688
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 247,
+                "targetExtent": {
+                    "startRange": 760,
+                    "endAzimuth": 226.1865234375,
+                    "endRange": 778,
+                    "startAzimuth": 222.7587890625
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:45.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 245.5389404296875},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry11": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 106,
+                "targetExtent": {
+                    "startRange": 1387,
+                    "endAzimuth": 143.448486328125,
+                    "endRange": 1449,
+                    "startAzimuth": 141.163330078125
+                },
+                "plotCount": 1,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93542,
+                    "y": -1133,
+                    "longitude": -72.67802
+                },
+                "track": 3718,
+                "movement": {
+                    "vy": 0,
+                    "heading": 137.87841796875,
+                    "ay": -0.25,
+                    "speed": 0
+                },
+                "full": false,
+                "status": {
+                    "ss": 1,
+                    "aa": 0,
+                    "NACp": 9,
+                    "av": "unknown",
+                    "sil": 0,
+                    "nic": 9,
+                    "mon": 1,
+                    "quality": 3
+                }
+            },
+            {
+                "seqNum": 107,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "x": 0,
+                    "y": -1,
+                    "longitude": -72.68849
+                },
+                "track": 3931,
+                "movement": {
+                    "vx": -1,
+                    "vy": -1,
+                    "ay": 0,
+                    "speed": 1
+                },
+                "full": false,
+                "status": {
+                    "NACp": 9,
+                    "nic": 9
+                }
+            },
+            {
+                "seqNum": 108,
+                "targetExtent": {
+                    "startRange": 1323,
+                    "endAzimuth": 169.0301513671875,
+                    "estimate": 10,
+                    "endRange": 1336,
+                    "startAzimuth": 168.4149169921875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.9336,
+                    "x": 269,
+                    "y": -1335,
+                    "longitude": -72.68525
+                },
+                "track": 3356,
+                "movement": {
+                    "vx": 0,
+                    "vy": -1,
+                    "heading": 32.8106689453125,
+                    "ay": 0,
+                    "speed": 2
+                },
+                "full": false,
+                "status": {"vertRate": 0}
+            },
+            {
+                "seqNum": 109,
+                "targetExtent": {
+                    "startRange": 728,
+                    "endAzimuth": 138.9166259765625,
+                    "endRange": 736,
+                    "startAzimuth": 137.9498291015625
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94077,
+                    "x": 494,
+                    "y": -539,
+                    "longitude": -72.68254
+                },
+                "track": 3826,
+                "movement": {
+                    "heading": 41.4239501953125,
+                    "ax": -0.25,
+                    "ay": 0,
+                    "speed": 20
+                },
+                "full": false,
+                "status": {"quality": 8}
+            },
+            {
+                "seqNum": 110,
+                "targetExtent": {
+                    "startRange": 725,
+                    "endAzimuth": 136.0931396484375,
+                    "endRange": 740,
+                    "startAzimuth": 132.5775146484375
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94118,
+                    "x": 538,
+                    "y": -493,
+                    "longitude": -72.682
+                },
+                "track": 2741,
+                "movement": {"heading": 42.659912109375},
+                "full": false,
+                "status": {
+                    "NACp": 8,
+                    "quality": 7
+                }
+            },
+            {
+                "seqNum": 111,
+                "plotCount": 2,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94555,
+                    "x": 9,
+                    "y": -7,
+                    "longitude": -72.68839
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 1,
+                    "vy": -1,
+                    "ax": 0.25,
+                    "speed": 3
+                },
+                "full": false
+            },
+            {
+                "seqNum": 112,
+                "plotCount": 1,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "x": 479,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 113,
+                "targetExtent": {
+                    "startRange": 1562,
+                    "endAzimuth": 162.0263671875,
+                    "endRange": 1607,
+                    "startAzimuth": 160.9716796875
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93212,
+                    "y": -1499,
+                    "longitude": -72.68235
+                },
+                "track": 3837,
+                "movement": {"heading": 332.38037109375},
+                "full": false
+            },
+            {
+                "seqNum": 114,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 115,
+                "targetExtent": {
+                    "startRange": 731,
+                    "endAzimuth": 123.5247802734375,
+                    "endRange": 744,
+                    "startAzimuth": 122.5579833984375
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94203,
+                    "x": 621,
+                    "y": -398,
+                    "longitude": -72.681
+                },
+                "track": 3420,
+                "movement": {
+                    "vx": 5,
+                    "heading": 41.9732666015625
+                },
+                "full": false
+            },
+            {
+                "seqNum": 116,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 117,
+                "targetExtent": {
+                    "endAzimuth": 142.877197265625,
+                    "startAzimuth": 141.470947265625
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "movement": {"heading": 354.188232421875},
+                "full": false
+            },
+            {
+                "seqNum": 118,
+                "targetExtent": {
+                    "startRange": 1159,
+                    "endAzimuth": 174.6990966796875,
+                    "endRange": 1166
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 119,
+                "targetExtent": {
+                    "endAzimuth": 149.556884765625,
+                    "startAzimuth": 148.502197265625
+                },
+                "stid": 744073,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "x": 1094,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 120,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 121,
+                "targetExtent": {
+                    "endAzimuth": 100.096435546875,
+                    "startAzimuth": 99.393310546875
+                },
+                "stid": 743867,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 122,
+                "targetExtent": {
+                    "endAzimuth": 205.631103515625,
+                    "startAzimuth": 204.927978515625
+                },
+                "plotCount": 1,
+                "stid": 743790,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 123,
+                "targetExtent": {
+                    "startRange": 761,
+                    "endAzimuth": 226.285400390625,
+                    "endRange": 779,
+                    "startAzimuth": 222.769775390625
+                },
+                "plotCount": 2,
+                "stid": 743114,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 248.18115234375},
+                "full": false
+            },
+            {
+                "seqNum": 124,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "latitude": 41.9507,
+                    "longitude": -72.67224
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 125,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "altitude": 2637.5,
+                    "latitude": 41.97268,
+                    "x": 19169,
+                    "y": 3032,
+                    "longitude": -72.45725
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 126,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:39.000Z",
+                "position": {
+                    "altitude": 4025,
+                    "latitude": 41.84669,
+                    "x": 12269,
+                    "y": -10979,
+                    "longitude": -72.54079
+                },
+                "track": 3680,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry22": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 227,
+                "targetExtent": {
+                    "startRange": 1631,
+                    "endAzimuth": 205.576171875,
+                    "endRange": 1638,
+                    "startAzimuth": 205.048828125
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93229,
+                    "y": -1481,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "movement": {
+                    "vy": 0,
+                    "speed": 0
+                },
+                "full": false
+            },
+            {
+                "flightInfo": {
+                    "runway": "unassigned",
+                    "tgtType": "unknown"
+                },
+                "seqNum": 228,
+                "targetExtent": {
+                    "startRange": 761,
+                    "endAzimuth": 226.241455078125,
+                    "estimate": 38,
+                    "endRange": 779,
+                    "startAzimuth": 222.813720703125
+                },
+                "plotCount": 1,
+                "flightId": {"aircraftId": "UNKN"},
+                "stid": 743114,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "altitude": 168.75,
+                    "latitude": 41.9407,
+                    "x": -545,
+                    "y": -547,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {
+                    "vx": 0,
+                    "vy": 0,
+                    "heading": 246.4068603515625,
+                    "ax": 0,
+                    "ay": 0,
+                    "speed": 0
+                },
+                "full": true,
+                "status": {
+                    "vertRate": "unavailable",
+                    "rt": 0,
+                    "df": 0,
+                    "di": 0,
+                    "tse": 0,
+                    "ls": 0,
+                    "nic": 10,
+                    "lv": 0,
+                    "ua": 0,
+                    "mon": 1,
+                    "ud": "up",
+                    "uncorrBaroAlt": "unavailable",
+                    "sim": 0,
+                    "si": 0,
+                    "sil": 0,
+                    "s1": 0,
+                    "ss": 1,
+                    "aa": 0,
+                    "op": 0,
+                    "st": 0,
+                    "mrh": "barometric",
+                    "su": 0,
+                    "NACp": 10,
+                    "src": "none",
+                    "af": "unfiltered",
+                    "gm": 0,
+                    "ms": 0,
+                    "twyID": 0,
+                    "spi": 0,
+                    "ap": 0,
+                    "tc": 0,
+                    "quality": 12,
+                    "aq": 0,
+                    "as": 0,
+                    "tf": 0,
+                    "at": 0,
+                    "nc": 0,
+                    "av": "unknown",
+                    "x": 0,
+                    "gbs": 0,
+                    "a9s": 0,
+                    "m3c": 0,
+                    "da": 0,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 229,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "altitude": 2681.25,
+                    "latitude": 41.97756,
+                    "x": 19356,
+                    "y": 3574,
+                    "longitude": -72.45498
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 230,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.85282,
+                    "x": 12393,
+                    "y": -10298,
+                    "longitude": -72.53928
+                },
+                "track": 3680,
+                "full": false
+            },
+            {
+                "seqNum": 231,
+                "stid": 744875,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.95076,
+                    "x": 1353,
+                    "y": 572,
+                    "longitude": -72.67217
+                },
+                "track": 3656,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry10": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 85,
+                "plotCount": 2,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "y": 0,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {"ay": 0.25},
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "NACp": 10,
+                    "src": "ground",
+                    "av": "unknown",
+                    "ms": 1,
+                    "sil": 3,
+                    "nic": 10,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 86,
+                "targetExtent": {
+                    "startRange": 1315,
+                    "endAzimuth": 169.2333984375,
+                    "endRange": 1360,
+                    "startAzimuth": 167.8271484375
+                },
+                "plotCount": 1,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93349,
+                    "x": 275,
+                    "y": -1347,
+                    "longitude": -72.68517
+                },
+                "track": 3356,
+                "movement": {
+                    "vx": 1,
+                    "vy": -2,
+                    "heading": 31.552734375,
+                    "ay": -0.25,
+                    "speed": 4
+                },
+                "full": false,
+                "status": {
+                    "src": "none",
+                    "ms": 0,
+                    "gbs": 0,
+                    "mon": 1,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 87,
+                "targetExtent": {
+                    "startRange": 730,
+                    "endAzimuth": 139.5318603515625,
+                    "endRange": 740,
+                    "startAzimuth": 138.7408447265625
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94069,
+                    "x": 488,
+                    "y": -547,
+                    "longitude": -72.68261
+                },
+                "track": 3826,
+                "movement": {"heading": 42.86865234375},
+                "full": false,
+                "status": {"quality": 7}
+            },
+            {
+                "seqNum": 88,
+                "targetExtent": {
+                    "startRange": 726,
+                    "endAzimuth": 136.845703125,
+                    "endRange": 739,
+                    "startAzimuth": 133.59375
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94111,
+                    "x": 531,
+                    "y": -501,
+                    "longitude": -72.68209
+                },
+                "track": 2741,
+                "movement": {"heading": 42.154541015625},
+                "full": false,
+                "status": {"quality": 6}
+            },
+            {
+                "seqNum": 89,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94556,
+                    "x": 7,
+                    "y": -6,
+                    "longitude": -72.68841
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 0,
+                    "vy": 0,
+                    "ax": 0,
+                    "speed": 0
+                },
+                "full": false
+            },
+            {
+                "seqNum": 90,
+                "plotCount": 2,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "y": -852,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 91,
+                "targetExtent": {
+                    "startRange": 1561,
+                    "endAzimuth": 161.9769287109375,
+                    "endRange": 1614,
+                    "startAzimuth": 160.9222412109375
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.9321,
+                    "y": -1501,
+                    "longitude": -72.68236
+                },
+                "track": 3837,
+                "movement": {"heading": 331.3861083984375},
+                "full": false
+            },
+            {
+                "seqNum": 92,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "y": -854,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 93,
+                "targetExtent": {
+                    "startRange": 728,
+                    "endAzimuth": 123.9971923828125,
+                    "endRange": 741,
+                    "startAzimuth": 123.1182861328125
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94198,
+                    "x": 616,
+                    "y": -404,
+                    "longitude": -72.68106
+                },
+                "track": 3420,
+                "movement": {"heading": 41.6656494140625},
+                "full": false
+            },
+            {
+                "seqNum": 94,
+                "targetExtent": {
+                    "startRange": 1128,
+                    "endAzimuth": 99.6844482421875,
+                    "endRange": 1151,
+                    "startAzimuth": 98.8934326171875
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 95,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "movement": {"heading": 353.7872314453125},
+                "full": false
+            },
+            {
+                "seqNum": 96,
+                "targetExtent": {
+                    "endAzimuth": 174.7869873046875,
+                    "startAzimuth": 174.4354248046875
+                },
+                "plotCount": 1,
+                "stid": 743504,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 97,
+                "targetExtent": {
+                    "endAzimuth": 149.5843505859375,
+                    "startAzimuth": 148.5296630859375
+                },
+                "stid": 744073,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "x": 1093,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 98,
+                "targetExtent": {
+                    "startRange": 791,
+                    "endAzimuth": 108.270263671875,
+                    "endRange": 809,
+                    "startAzimuth": 108.006591796875
+                },
+                "stid": 744044,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 99,
+                "targetExtent": {
+                    "endAzimuth": 100.1513671875,
+                    "startAzimuth": 99.4482421875
+                },
+                "stid": 743867,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 100,
+                "plotCount": 2,
+                "stid": 743790,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 101,
+                "targetExtent": {
+                    "startRange": 760,
+                    "endAzimuth": 226.1865234375,
+                    "endRange": 778,
+                    "startAzimuth": 222.7587890625
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 248.587646484375},
+                "full": false
+            },
+            {
+                "seqNum": 102,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.9507,
+                    "x": 1348,
+                    "y": 565,
+                    "longitude": -72.67223
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 103,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "altitude": 2625,
+                    "latitude": 41.97171,
+                    "x": 19132,
+                    "y": 2924,
+                    "longitude": -72.4577
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 104,
+                "plotCount": 0,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.84553,
+                    "x": 12239,
+                    "y": -11109,
+                    "longitude": -72.54115
+                },
+                "track": 3680,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 6
+                    },
+                    "a9s": 0,
+                    "mon": 0
+                }
+            },
+            {
+                "seqNum": 105,
+                "plotCount": 0,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:38.000Z",
+                "position": {
+                    "latitude": 41.93545,
+                    "y": -1130,
+                    "longitude": -72.67801
+                },
+                "track": 3718,
+                "full": false,
+                "status": {
+                    "ss": 0,
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "mon": 0,
+                    "quality": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry21": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 211,
+                "plotCount": 1,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94561,
+                    "x": 1,
+                    "y": -1,
+                    "longitude": -72.68848
+                },
+                "track": 3931,
+                "movement": {
+                    "ax": 0,
+                    "ay": -0.25
+                },
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "NACp": 9,
+                    "src": "ground",
+                    "av": "unknown",
+                    "ms": 1,
+                    "sil": 3,
+                    "nic": 9,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 212,
+                "targetExtent": {
+                    "startRange": 1430,
+                    "endAzimuth": 142.9925537109375,
+                    "endRange": 1435,
+                    "startAzimuth": 142.7288818359375
+                },
+                "stid": 744830,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93541,
+                    "x": 868,
+                    "y": -1134,
+                    "longitude": -72.67802
+                },
+                "track": 3718,
+                "movement": {
+                    "vx": 0,
+                    "vy": -1,
+                    "ax": 0,
+                    "ay": -0.25,
+                    "speed": 1
+                },
+                "full": false
+            },
+            {
+                "seqNum": 213,
+                "targetExtent": {
+                    "startRange": 1323,
+                    "endAzimuth": 169.0740966796875,
+                    "endRange": 1336,
+                    "startAzimuth": 168.3709716796875
+                },
+                "plotCount": 2,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93339,
+                    "x": 270,
+                    "y": -1359,
+                    "longitude": -72.68523
+                },
+                "track": 3356,
+                "movement": {"heading": 44.219970703125},
+                "full": false,
+                "status": {
+                    "NACp": 9,
+                    "src": "ground",
+                    "ms": 1,
+                    "gbs": 1,
+                    "nic": 9,
+                    "mon": 0,
+                    "vs": "geometric"
+                }
+            },
+            {
+                "seqNum": 214,
+                "targetExtent": {
+                    "startRange": 724,
+                    "endAzimuth": 134.9835205078125,
+                    "endRange": 736,
+                    "startAzimuth": 134.0167236328125
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94112,
+                    "x": 530,
+                    "y": -499,
+                    "longitude": -72.6821
+                },
+                "track": 3826,
+                "movement": {"heading": 41.7315673828125},
+                "full": false
+            },
+            {
+                "seqNum": 215,
+                "targetExtent": {
+                    "startRange": 723,
+                    "endAzimuth": 132.2149658203125,
+                    "endRange": 736,
+                    "startAzimuth": 128.7872314453125
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94154,
+                    "x": 574,
+                    "y": -453,
+                    "longitude": -72.68156
+                },
+                "track": 2741,
+                "movement": {"heading": 42.176513671875},
+                "full": false,
+                "status": {"quality": 12}
+            },
+            {
+                "seqNum": 216,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94555,
+                    "x": 10,
+                    "y": -8,
+                    "longitude": -72.68837
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 1,
+                    "vy": -2,
+                    "ax": 0.25,
+                    "ay": -0.25,
+                    "speed": 4
+                },
+                "full": false
+            },
+            {
+                "seqNum": 217,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93795,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "movement": {"ax": 0},
+                "full": false
+            },
+            {
+                "seqNum": 218,
+                "targetExtent": {
+                    "startRange": 1551,
+                    "endAzimuth": 162.3504638671875,
+                    "endRange": 1599,
+                    "startAzimuth": 160.9442138671875
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93219,
+                    "x": 498,
+                    "y": -1491,
+                    "longitude": -72.68248
+                },
+                "track": 3837,
+                "movement": {"heading": 326.6400146484375},
+                "full": false
+            },
+            {
+                "seqNum": 219,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "y": -853,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "movement": {"ay": 0.25},
+                "full": false
+            },
+            {
+                "seqNum": 220,
+                "targetExtent": {
+                    "startRange": 735,
+                    "endAzimuth": 121.1297607421875,
+                    "endRange": 750,
+                    "startAzimuth": 120.4266357421875
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94225,
+                    "x": 643,
+                    "y": -374,
+                    "longitude": -72.68074
+                },
+                "track": 3420,
+                "movement": {"heading": 42.330322265625},
+                "full": false
+            },
+            {
+                "seqNum": 221,
+                "targetExtent": {
+                    "startRange": 1127,
+                    "endAzimuth": 99.7064208984375,
+                    "endRange": 1147,
+                    "startAzimuth": 98.9154052734375
+                },
+                "stid": 744565,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "x": 1124,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 222,
+                "stid": 744259,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "movement": {"heading": 354.5947265625},
+                "full": false
+            },
+            {
+                "flightInfo": {
+                    "runway": "unassigned",
+                    "tgtType": "unknown"
+                },
+                "seqNum": 223,
+                "targetExtent": {
+                    "startRange": 1157,
+                    "endAzimuth": 174.7869873046875,
+                    "estimate": 5,
+                    "endRange": 1164,
+                    "startAzimuth": 174.4354248046875
+                },
+                "plotCount": 1,
+                "flightId": {"aircraftId": "UNKN"},
+                "stid": 743504,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "altitude": 168.75,
+                    "latitude": 41.93522,
+                    "x": 111,
+                    "y": -1155,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "movement": {
+                    "vx": 0,
+                    "vy": 0,
+                    "heading": 296.246337890625,
+                    "ax": 0,
+                    "ay": 0,
+                    "speed": 0
+                },
+                "full": true,
+                "status": {
+                    "vertRate": "unavailable",
+                    "rt": 0,
+                    "df": 0,
+                    "di": 0,
+                    "tse": 0,
+                    "ls": 0,
+                    "nic": 10,
+                    "lv": 0,
+                    "ua": 0,
+                    "mon": 1,
+                    "ud": "up",
+                    "uncorrBaroAlt": "unavailable",
+                    "sim": 0,
+                    "si": 0,
+                    "sil": 0,
+                    "s1": 0,
+                    "ss": 1,
+                    "aa": 0,
+                    "op": 0,
+                    "st": 0,
+                    "mrh": "barometric",
+                    "su": 0,
+                    "NACp": 10,
+                    "src": "none",
+                    "af": "unfiltered",
+                    "gm": 0,
+                    "ms": 0,
+                    "twyID": 0,
+                    "spi": 0,
+                    "ap": 0,
+                    "tc": 0,
+                    "quality": 12,
+                    "aq": 0,
+                    "as": 0,
+                    "tf": 0,
+                    "at": 0,
+                    "nc": 0,
+                    "av": "unknown",
+                    "x": 0,
+                    "gbs": 0,
+                    "a9s": 0,
+                    "m3c": 0,
+                    "da": 0,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 224,
+                "targetExtent": {
+                    "startRange": 2115,
+                    "endAzimuth": 149.6173095703125,
+                    "endRange": 2125,
+                    "startAzimuth": 148.5626220703125
+                },
+                "stid": 744073,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "x": 1093,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 225,
+                "targetExtent": {
+                    "startRange": 790,
+                    "endAzimuth": 108.248291015625,
+                    "endRange": 805,
+                    "startAzimuth": 107.984619140625
+                },
+                "stid": 744044,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 226,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:44.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry20": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 207,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "altitude": 2675,
+                    "latitude": 41.97658,
+                    "x": 19319,
+                    "y": 3466,
+                    "longitude": -72.45543
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 208,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.85163,
+                    "x": 12366,
+                    "y": -10431,
+                    "longitude": -72.53961
+                },
+                "track": 3680,
+                "full": false
+            },
+            {
+                "seqNum": 209,
+                "plotCount": 0,
+                "stid": 744875,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.95074,
+                    "x": 1354,
+                    "y": 569,
+                    "longitude": -72.67216
+                },
+                "track": 3656,
+                "full": false,
+                "status": {
+                    "ss": 0,
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 8
+                    },
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 8
+                    },
+                    "mon": 0,
+                    "quality": 0
+                }
+            },
+            {
+                "seqNum": 210,
+                "plotCount": 0,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:43.000Z",
+                "position": {
+                    "latitude": 41.94563,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "ms": 0,
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "mon": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry16": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 166,
+                "targetExtent": {
+                    "startRange": {
+                        "r": 1,
+                        "content": 1458
+                    },
+                    "endAzimuth": {
+                        "r": 1,
+                        "content": 68.75244140625
+                    },
+                    "endRange": {
+                        "r": 1,
+                        "content": 1478
+                    },
+                    "startAzimuth": {
+                        "r": 1,
+                        "content": 66.81884765625
+                    }
+                },
+                "stid": 744874,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.95071,
+                    "y": 566,
+                    "longitude": -72.67225
+                },
+                "track": 3702,
+                "full": false,
+                "status": {"tse": 1}
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 167,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "altitude": 2656.25,
+                    "latitude": 41.97463,
+                    "x": 19244,
+                    "y": 3249,
+                    "longitude": -72.45634
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "seqNum": 168,
+                "plotCount": 0,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93539,
+                    "y": -1136,
+                    "longitude": -72.67803
+                },
+                "track": 3718,
+                "full": false,
+                "status": {
+                    "ss": 0,
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "sil": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "mon": 0,
+                    "quality": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry15": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 148,
+                "plotCount": 1,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "altitude": 4006.25,
+                    "latitude": 41.84925,
+                    "x": 12312,
+                    "y": -10696,
+                    "longitude": -72.54027
+                },
+                "track": 3680,
+                "movement": {
+                    "vx": 27,
+                    "vy": 133,
+                    "heading": 11.953125,
+                    "ax": -0.25,
+                    "ay": 0.25,
+                    "speed": 263
+                },
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "vertRate": 1,
+                    "uncorrBaroAlt": 152,
+                    "NACp": 6,
+                    "src": "modec",
+                    "av": "unknown",
+                    "sil": 3,
+                    "nic": 6,
+                    "a9s": 1,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 149,
+                "plotCount": 2,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94562,
+                    "x": 2,
+                    "y": 0,
+                    "longitude": -72.68847
+                },
+                "track": 3931,
+                "movement": {
+                    "vx": 0,
+                    "vy": 0,
+                    "ax": 0.25,
+                    "speed": 0
+                },
+                "full": false,
+                "status": {
+                    "aa": 0,
+                    "NACp": 9,
+                    "src": "ground",
+                    "av": "unknown",
+                    "ms": 1,
+                    "sil": 3,
+                    "nic": 9,
+                    "mon": 1
+                }
+            },
+            {
+                "seqNum": 150,
+                "targetExtent": {
+                    "endAzimuth": 169.0740966796875,
+                    "startAzimuth": 168.3709716796875
+                },
+                "stid": 744872,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93347,
+                    "x": 271,
+                    "y": -1349,
+                    "longitude": -72.68522
+                },
+                "track": 3356,
+                "movement": {
+                    "heading": 37.8314208984375,
+                    "speed": 2
+                },
+                "full": false,
+                "status": {"uncorrBaroAlt": -2}
+            },
+            {
+                "seqNum": 151,
+                "targetExtent": {
+                    "startRange": 726,
+                    "endAzimuth": 137.26318359375,
+                    "endRange": 739,
+                    "startAzimuth": 136.38427734375
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94091,
+                    "x": 509,
+                    "y": -523,
+                    "longitude": -72.68236
+                },
+                "track": 3826,
+                "movement": {"heading": 41.605224609375},
+                "full": false,
+                "status": {"quality": 10}
+            },
+            {
+                "seqNum": 152,
+                "targetExtent": {
+                    "startRange": 723,
+                    "endAzimuth": 134.49462890625,
+                    "endRange": 738,
+                    "startAzimuth": 131.06689453125
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94133,
+                    "x": 553,
+                    "y": -477,
+                    "longitude": -72.68182
+                },
+                "track": 2741,
+                "movement": {"heading": 42.154541015625},
+                "full": false,
+                "status": {"quality": 9}
+            },
+            {
+                "seqNum": 153,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94557,
+                    "x": 6,
+                    "y": -5,
+                    "longitude": -72.68842
+                },
+                "track": 917,
+                "movement": {
+                    "vx": 0,
+                    "speed": 0
+                },
+                "full": false
+            },
+            {
+                "seqNum": 154,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93795,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "movement": {"heading": 7.0916748046875},
+                "full": false
+            },
+            {
+                "seqNum": 155,
+                "targetExtent": {
+                    "startRange": 1558,
+                    "endAzimuth": 162.169189453125,
+                    "endRange": 1608,
+                    "startAzimuth": 160.850830078125
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93215,
+                    "x": 505,
+                    "y": -1496,
+                    "longitude": -72.6824
+                },
+                "track": 3837,
+                "movement": {"heading": 331.10595703125},
+                "full": false
+            },
+            {
+                "seqNum": 156,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 157,
+                "targetExtent": {
+                    "startRange": 732,
+                    "endAzimuth": 122.5799560546875,
+                    "startAzimuth": 121.6131591796875
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94213,
+                    "x": 630,
+                    "y": -388,
+                    "longitude": -72.68089
+                },
+                "track": 3420,
+                "movement": {"heading": 41.4678955078125},
+                "full": false
+            },
+            {
+                "seqNum": 158,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "full": false
+            },
+            {
+                "seqNum": 159,
+                "targetExtent": {
+                    "endAzimuth": 142.833251953125,
+                    "startAzimuth": 141.514892578125
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 160,
+                "stid": 743504,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 161,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 162,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"heading": 28.3612060546875},
+                "full": false
+            },
+            {
+                "seqNum": 163,
+                "targetExtent": {
+                    "endAzimuth": 100.096435546875,
+                    "startAzimuth": 99.393310546875
+                },
+                "stid": 743867,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 164,
+                "targetExtent": {
+                    "startRange": 1634,
+                    "endAzimuth": 205.455322265625,
+                    "endRange": 1641,
+                    "startAzimuth": 205.015869140625
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "y": -1480,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 165,
+                "targetExtent": {
+                    "startRange": 760,
+                    "endAzimuth": 226.1865234375,
+                    "endRange": 778,
+                    "startAzimuth": 222.7587890625
+                },
+                "stid": 743114,
+                "time": "2025-03-28T03:58:41.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry14": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 144,
+                "stid": 744874,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.95071,
+                    "x": 1347,
+                    "longitude": -72.67224
+                },
+                "track": 3702,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KT04201600"},
+                "seqNum": 145,
+                "stid": 744849,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "altitude": 2643.75,
+                    "latitude": 41.97366,
+                    "x": 19207,
+                    "y": 3141,
+                    "longitude": -72.45679
+                },
+                "track": 3748,
+                "full": false
+            },
+            {
+                "enhancedData": {"eramGufi": "KN05732600"},
+                "seqNum": 146,
+                "stid": 744873,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.84786,
+                    "x": 12298,
+                    "y": -10850,
+                    "longitude": -72.54043
+                },
+                "track": 3680,
+                "full": false
+            },
+            {
+                "seqNum": 147,
+                "plotCount": 0,
+                "stid": 738982,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.9456,
+                    "y": -2,
+                    "longitude": -72.6885
+                },
+                "track": 3931,
+                "full": false,
+                "status": {
+                    "aa": {
+                        "r": 1,
+                        "content": 0
+                    },
+                    "NACp": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "src": "none",
+                    "av": {
+                        "r": 1,
+                        "content": "unknown"
+                    },
+                    "ms": 0,
+                    "sil": {
+                        "r": 1,
+                        "content": 3
+                    },
+                    "nic": {
+                        "r": 1,
+                        "content": 9
+                    },
+                    "mon": 0
+                }
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry13": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 137,
+                "targetExtent": {
+                    "endAzimuth": 142.8717041015625,
+                    "startAzimuth": 141.5533447265625
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 138,
+                "targetExtent": {
+                    "startRange": 1157,
+                    "endAzimuth": 174.8309326171875,
+                    "endRange": 1164,
+                    "startAzimuth": 174.3914794921875
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 139,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 140,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "full": false
+            },
+            {
+                "seqNum": 141,
+                "targetExtent": {
+                    "endAzimuth": 100.1513671875,
+                    "startAzimuth": 99.4482421875
+                },
+                "stid": 743867,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "full": false
+            },
+            {
+                "seqNum": 142,
+                "targetExtent": {
+                    "endAzimuth": 205.6201171875,
+                    "startAzimuth": 205.0048828125
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "full": false
+            },
+            {
+                "seqNum": 143,
+                "targetExtent": {
+                    "endAzimuth": 226.241455078125,
+                    "startAzimuth": 222.813720703125
+                },
+                "plotCount": 1,
+                "stid": 743114,
+                "time": "2025-03-28T03:58:40.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry0": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 234,
+                "targetExtent": {
+                    "startRange": 1430,
+                    "endAzimuth": 142.9925537109375,
+                    "startAzimuth": 142.7288818359375
+                },
+                "plotCount": 1,
+                "stid": 744830,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93533,
+                    "x": 866,
+                    "y": -1143,
+                    "longitude": -72.67805
+                },
+                "track": 3718,
+                "movement": {
+                    "vx": 0,
+                    "vy": -1,
+                    "heading": 137.977294921875,
+                    "ay": 0,
+                    "speed": 2
+                },
+                "full": false,
+                "status": {
+                    "ss": 1,
+                    "aa": 0,
+                    "NACp": 9,
+                    "av": "unknown",
+                    "sil": 0,
+                    "nic": 9,
+                    "mon": 1,
+                    "quality": 2
+                }
+            },
+            {
+                "seqNum": 235,
+                "targetExtent": {
+                    "startRange": 1323,
+                    "endAzimuth": 169.0301513671875,
+                    "endRange": 1336,
+                    "startAzimuth": 168.4149169921875
+                },
+                "plotCount": 1,
+                "stid": 744872,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93376,
+                    "longitude": -72.6853
+                },
+                "track": 3356,
+                "movement": {"heading": 357.308349609375},
+                "full": false,
+                "status": {
+                    "uncorrBaroAlt": "unavailable",
+                    "src": "none",
+                    "ms": 0,
+                    "gbs": 0,
+                    "nic": 8,
+                    "mon": 1,
+                    "vs": "barometric"
+                }
+            },
+            {
+                "seqNum": 236,
+                "targetExtent": {
+                    "startRange": 739,
+                    "endAzimuth": 144.1680908203125,
+                    "endRange": 751,
+                    "startAzimuth": 143.2012939453125
+                },
+                "stid": 744870,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94037,
+                    "x": 456,
+                    "y": -582,
+                    "longitude": -72.68299
+                },
+                "track": 3826,
+                "movement": {
+                    "vx": 9,
+                    "vy": 10,
+                    "heading": 42.769775390625,
+                    "ax": 0.25,
+                    "ay": 0.25,
+                    "speed": 26
+                },
+                "full": false,
+                "status": {
+                    "NACp": 9,
+                    "nic": 9,
+                    "quality": 2
+                }
+            },
+            {
+                "seqNum": 237,
+                "targetExtent": {
+                    "startRange": 729,
+                    "endAzimuth": 141.5203857421875,
+                    "endRange": 746,
+                    "startAzimuth": 138.2684326171875
+                },
+                "stid": 744692,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94073,
+                    "x": 494,
+                    "y": -543,
+                    "longitude": -72.68254
+                },
+                "track": 2741,
+                "movement": {
+                    "heading": 42.1820068359375,
+                    "speed": 20
+                },
+                "full": false,
+                "status": {"quality": 3}
+            },
+            {
+                "seqNum": 238,
+                "stid": 738980,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94557,
+                    "x": 6,
+                    "y": -5,
+                    "longitude": -72.68842
+                },
+                "track": 917,
+                "movement": {
+                    "vx": -1,
+                    "ax": -0.25,
+                    "ay": 0.25
+                },
+                "full": false
+            },
+            {
+                "seqNum": 239,
+                "stid": 738979,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93794,
+                    "longitude": -72.68271
+                },
+                "track": 2775,
+                "full": false
+            },
+            {
+                "seqNum": 240,
+                "targetExtent": {
+                    "startRange": 1570,
+                    "endAzimuth": 161.8780517578125,
+                    "endRange": 1620,
+                    "startAzimuth": 160.8233642578125
+                },
+                "stid": 744857,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93203,
+                    "x": 512,
+                    "y": -1509,
+                    "longitude": -72.68232
+                },
+                "track": 3837,
+                "movement": {"heading": 336.3739013671875},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }},
+    "Entry1": {"ns2:asdexMsg": {
+        "positionReport": [
+            {
+                "seqNum": 241,
+                "stid": 738983,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93793,
+                    "longitude": -72.68268
+                },
+                "track": 2423,
+                "full": false
+            },
+            {
+                "seqNum": 242,
+                "targetExtent": {
+                    "startRange": 724,
+                    "endAzimuth": 126.8096923828125,
+                    "endRange": 737,
+                    "startAzimuth": 125.9307861328125
+                },
+                "stid": 744555,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94175,
+                    "x": 594,
+                    "y": -429,
+                    "longitude": -72.68133
+                },
+                "track": 3420,
+                "movement": {"heading": 42.9180908203125},
+                "full": false
+            },
+            {
+                "seqNum": 243,
+                "plotCount": 2,
+                "stid": 744565,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94398,
+                    "longitude": -72.67493
+                },
+                "track": 3330,
+                "movement": {"heading": 86.4129638671875},
+                "full": false
+            },
+            {
+                "seqNum": 244,
+                "targetExtent": {
+                    "endAzimuth": 142.877197265625,
+                    "startAzimuth": 141.470947265625
+                },
+                "stid": 744259,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93105,
+                    "longitude": -72.67331
+                },
+                "track": 3147,
+                "full": false
+            },
+            {
+                "seqNum": 245,
+                "targetExtent": {
+                    "endAzimuth": 174.737548828125,
+                    "startAzimuth": 174.385986328125
+                },
+                "stid": 743504,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.93522,
+                    "longitude": -72.68715
+                },
+                "track": 2343,
+                "full": false
+            },
+            {
+                "seqNum": 246,
+                "stid": 744073,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.92926,
+                    "longitude": -72.67531
+                },
+                "track": 2786,
+                "full": false
+            },
+            {
+                "seqNum": 247,
+                "stid": 744044,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94339,
+                    "longitude": -72.67935
+                },
+                "track": 2936,
+                "movement": {"heading": 28.3941650390625},
+                "full": false
+            },
+            {
+                "seqNum": 248,
+                "plotCount": 2,
+                "stid": 743867,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.94397,
+                    "longitude": -72.67551
+                },
+                "track": 2409,
+                "movement": {"heading": 359.7418212890625},
+                "full": false
+            },
+            {
+                "seqNum": 249,
+                "targetExtent": {
+                    "startRange": 1631,
+                    "endAzimuth": 205.631103515625,
+                    "endRange": 1638,
+                    "startAzimuth": 204.927978515625
+                },
+                "stid": 743790,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.9323,
+                    "x": -696,
+                    "longitude": -72.69689
+                },
+                "track": 2530,
+                "movement": {"ay": 0},
+                "full": false
+            },
+            {
+                "seqNum": 250,
+                "stid": 743114,
+                "time": "2025-03-28T03:58:33.000Z",
+                "position": {
+                    "latitude": 41.9407,
+                    "longitude": -72.69506
+                },
+                "track": 1859,
+                "movement": {"heading": 250.6915283203125},
+                "full": false
+            }
+        ],
+        "xmlns:ns2": "urn:us:gov:dot:faa:atm:terminal:entities:v4-0:smes:surfacemovementevent",
+        "airport": "KBDL"
+    }}
+}

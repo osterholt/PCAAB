@@ -1,0 +1,4 @@
+target/
+run.txt
+lib/jumpstart-jar-with-dependencies.jar
+src/main/resources/reference.conf/
